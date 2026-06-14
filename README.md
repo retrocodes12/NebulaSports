@@ -17,7 +17,7 @@ https://raw.githubusercontent.com/retrocodes12/NebulaSports/main/repo.json
 Direct IPK:
 
 ```text
-https://raw.githubusercontent.com/retrocodes12/NebulaSports/main/com.nebulastreams.sports_1.0.9_all.ipk
+https://raw.githubusercontent.com/retrocodes12/NebulaSports/main/com.nebulastreams.sports_1.0.10_all.ipk
 ```
 
 If an older build is already installed and update fails, uninstall `com.nebulastreams.sports`, then install again.
